@@ -10,7 +10,7 @@ This is the modification of the [Bolzano-Weistrass Plan](https://github.com/Bolz
 - Don't give in to your addictions. **A man who is addicted will forever be a slave**.
 
 ## Status
-| Day | Status | Notes | Why fail? (don't) | Feedback |
-| --- | ------ | ----- | --------- | -------- |
-| 0   | **Arambam** | You can do this | Not yet baby | Strive for improvement | 
+| Day | Status | Notes | Why fail? (don't) | Feedback | Date |
+| --- | ------ | ----- | --------- | -------- | ------- |
+| 0   | **Arambam** | You can do this | Not yet baby | Strive for improvement | 09/12/2023|
 

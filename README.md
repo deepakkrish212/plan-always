@@ -12,5 +12,6 @@ This is the modification of the [Bolzano-Weistrass Plan](https://github.com/Bolz
 ## Status
 | Day | Status | Notes | Why fail? (don't) | Feedback | Date |
 | --- | ------ | ----- | --------- | -------- | ------- |
+| 1   | Success (Partial) | I was able to get some work done at Raven; HackMIT planning went well; Classes went well; Should focus more on GardenMate :( |The phone addiciton was strong but I controlled myself to the best of my abilities. | Trying to avoid your phone is really hard. Therefore, make a plan the day before, try to stick to it as much as possible. If you feel the urge is getting stronger, just take a break and go on a walk buddy boy | 09/13/2023 |
 | 0   | **Arambam** | You can do this | Not yet baby | Strive for improvement | 09/12/2023|
 

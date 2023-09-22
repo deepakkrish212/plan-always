@@ -1,5 +1,30 @@
 # Plan-Always
-This is the modification of the [Bolzano-Weistrass Plan](https://github.com/Bolzano-Weierstrass-plan). I will update my life rules and statues here to get those sweet green points
+This is the modification of the [Bolzano-Weistrass Plan](https://github.com/Bolzano-Weierstrass-plan). I will update my life rules and statues here to get those sweet green points.
+
+Update **09/22/2023**
+I realized that, in order to be the best of the best, I need to be willing to go the extra mile. I need to idenitfy my strenghts and weaknesses and constantly improve them. For this, I introduce a set of additions as follows:
+- Create a skillset table and rate yourself from 0 - 10 based on your current skill levels
+- Every two weeks, update that skillset table. However, in those two weeks, you will do as much as you can to improve the individual skills mentioned
+- A status table will also be created just for updating the skillsets and any feedback that I might have for myself.
+- At the end of two weeks, I will also report what new intiatives or improvements I have made to evolve myself to the next level.
+
+## Skillset
+| Skill | Level (0-10) | How to improve | Date | Week |
+| ----- | ------------ | -------------- | -----| -----|
+| Typing| 5.5          | Practice typing everyday for atleast 10 minutes | 09/22/2023 | 0 |
+| Problem solving| 6   | Practice competitve programming everyday for atleast 10 minutes | 09/22/2023 | 0 |
+| Programming from logic| 3.0 | Create psuedocode and code it up | 09/22/2023 | 0 |
+| Programming | 5.0 | Practice coding without the help of AI assistants | 09/22/2023 | 0 |
+| Health and Physique | 2.0 | Improve sleep schedule and Gym consistent | 09/22/2023 | 0 |
+| Speaking and Writing| 4.0 | Practice speaking and writing everyday for at least 10 minutes | 09/22/2023 | 0 |
+| Plan and Following  | 0.5 | If you have a plan, you are going to stick to it. No other option | 09/22/2023 | 0 |
+
+## Actions for evolution (Week 0 WIP)
+
+## Things to avoid
+  - Stop getting a sense of accomplishment from planning. You are just planning or dreaming about it and not actually doing it
+  - When tired, don't give up.
+  - Never rely on motivation. You don't have any motivation, you only have discipline and will power. 
 
 ## Rules
 - Don't use your phone when doing important work. **Life is to live, not get distracted**.
@@ -8,6 +33,14 @@ This is the modification of the [Bolzano-Weistrass Plan](https://github.com/Bolz
 - Plan your day. **In this busy and hectic world, being organized is the key to success**
 - Be kind and grateful. **What is the point of being not kind and bratty?**
 - Don't give in to your addictions. **A man who is addicted will forever be a slave**.
+- I should go above and beyond in any given circumstance. **Life is to be extraordinary**
+
+## Punishment
+  - If I didn't not follow any of my daily rules, I have to solve two leetcode medium level questions. I am allowed to look at the hint after 30 minutes but never the solution.
+      - If I didn't follow this, I will also have to send Soobin $100
+  - My ego is not satisfied with lying. I am not satisfied with lying. I cannot truly evolve if I lie. So, lying will cost me $100 dollars straight to Soobin's account
+  - If I do not do anything major to improve my life in these two weeks' time, I have failed and have to do leetcode questions for an entire day.
+      - Failing this will also initiate a $100 transfer to Soobin. 
 
 ## Status
 | Day | Status | Notes | Why fail? (don't) | Feedback | Date |

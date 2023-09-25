@@ -45,6 +45,9 @@ I realized that, in order to be the best of the best, I need to be willing to go
 ## Status
 | Day | Status | Notes | Why fail? (don't) | Feedback | Date |
 | --- | ------ | ----- | --------- | -------- | ------- |
+| 12  | Failure| I failed again today by letting my lazy side take over. However, in the process, I learned some very important things. I learned that inspiration is my biggest motivator. I also learned that I really love math. I was able to complete my punishment and get a good grasp of backtracking technique.| | | 09/24/2023| 
+| 11  | Failure| I failed this day by being lazy. I realized that it is not the motivation from Ego that keeps me going, it is the motivation I get from inspiration. However, I did complete the punishment. | | | 09/23/2023|
+| 10  | Success| It was a bit easier to get started than I thought. However, the urge to not follow my rules were a bit high compared to normal.| | | 09/22/2023|
 | 9   | Success - New Chapter | I am tired of being the same. I convinced myself that losing is a part of the journey and I shouldn't feel bad. That's not true. I worked hard for it and I didn't succeed. So, the only possible solution for that is to feel that pain and DO MORE WORK. What's the point of pursuing something if you are not going to be best at it? That's exactly what I am going to do. I am going to be the best in my field. In other words, I am going to be the best entreprenuer/software engineer the world has ever seen. I used to have motivation burts just like this in the past: they are not sustianable. However, this is not just a burst of motivation I am feeling right now. It is more than that, It is my identity from now on. I am going to be the BEST OF THE BEST, and I will make that happen. This is not just a promise but also my life. | --------- | ------- | 09/21/2023 |
 | 8   | Same old | ---- | --------- | ------- | 09/20/2023 |
 | 7   | Same old | ---- | --------- | ------- | 09/19/2023 |

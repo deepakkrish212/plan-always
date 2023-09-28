@@ -45,6 +45,9 @@ I realized that, in order to be the best of the best, I need to be willing to go
 ## Status
 | Day | Status | Notes | Why fail? (don't) | Feedback | Date |
 | --- | ------ | ----- | --------- | -------- | ------- |
+| 15  | Utter Failure | I couldn't control myself and I didn't update the plan. This day was really hard for me. | Distractions again but not going to let that control me anymore | NA | 09/27/2023 | 
+| 14  | Failure| I failed again because I let go of myself| Distractions | NA | 09/26/2023 |
+| 13  | Failure| I failed again today because I let myself go | Because I let my distractions take the better part of myself | Don't let distractions affect you | 09/25/2023| 
 | 12  | Failure| I failed again today by letting my lazy side take over. However, in the process, I learned some very important things. I learned that inspiration is my biggest motivator. I also learned that I really love math. I was able to complete my punishment and get a good grasp of backtracking technique.| | | 09/24/2023| 
 | 11  | Failure| I failed this day by being lazy. I realized that it is not the motivation from Ego that keeps me going, it is the motivation I get from inspiration. However, I did complete the punishment. | | | 09/23/2023|
 | 10  | Success| It was a bit easier to get started than I thought. However, the urge to not follow my rules were a bit high compared to normal.| | | 09/22/2023|

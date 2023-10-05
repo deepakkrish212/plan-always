@@ -45,6 +45,14 @@ I realized that, in order to be the best of the best, I need to be willing to go
 ## Status
 | Day | Status | Notes | Why fail? (don't) | Feedback | Date |
 | --- | ------ | ----- | --------- | -------- | ------- |
+| 23  | Success| I believe in my gods to help me conquer myself 😄  |           |          | 10/04/2023| 
+| 22  | Partial Success|           |          |          | 10/03/2023 | 
+| 21  | Fail     |     |           |          | 10/02/2023 | 
+| 20  | Fail     |     |           |          | 10/01/2023 | 
+| 19  | Fail     |     |           |          | 09/31/2023 | 
+| 18  | Fail     |     |           |          | 09/30/2023 | 
+| 17  | Fail     |     |           |          | 09/29/2023 | 
+| 16  | Success     |       |           |     | 09/28/2023| 
 | 15  | Utter Failure | I couldn't control myself and I didn't update the plan. This day was really hard for me. | Distractions again but not going to let that control me anymore | NA | 09/27/2023 | 
 | 14  | Failure| I failed again because I let go of myself| Distractions | NA | 09/26/2023 |
 | 13  | Failure| I failed again today because I let myself go | Because I let my distractions take the better part of myself | Don't let distractions affect you | 09/25/2023| 

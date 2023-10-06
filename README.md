@@ -45,6 +45,7 @@ I realized that, in order to be the best of the best, I need to be willing to go
 ## Status
 | Day | Status | Notes | Why fail? (don't) | Feedback | Date |
 | --- | ------ | ----- | --------- | -------- | ------- |
+| 24  | Success| I was able to get all of the things I want to get done today. However, I believe that if I spent more time focusing on programming and machine learning, I could have had a more productive day. I am planning to use the 3-day weekend to catch up on mahcine learning concepts and try to code up my personal website haha | | | 05/10/2023 | 
 | 23  | Success| I believe in my gods to help me conquer myself 😄  |           |          | 10/04/2023| 
 | 22  | Partial Success|           |          |          | 10/03/2023 | 
 | 21  | Fail     |     |           |          | 10/02/2023 | 

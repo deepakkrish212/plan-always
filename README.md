@@ -45,6 +45,11 @@ I realized that, in order to be the best of the best, I need to be willing to go
 ## Status
 | Day | Status | Notes | Why fail? (don't) | Feedback | Date |
 | --- | ------ | ----- | --------- | -------- | ------- |
+| 55 | Fail    | | | | 05/11/2023 | 
+| 54 | Success | | | | 04/11/2023 | 
+| 53 | Fail    | | | | 03/11/2023 | 
+| 52 | Fail    | | | | 02/11/2023 | 
+| 51 | Fail    | | | | 01/11/2023 | 
 | 50 | Unknown | | | | 31/10/2023 | 
 | 49 | Unknown | | | | 30/10/2023 | 
 | 48 | Unknown | | | | 29/10/2023 | 

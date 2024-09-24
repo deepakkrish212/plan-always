@@ -2,6 +2,12 @@ Throughout this last year, I have learned a lot about myself. I travelled to a d
 
 It feels almost weird to start this plan again, since it's been a year since I started my previous one. However, as my GOAT, Nick Eh 30 said, "Never Back Down, Never What?" NEVER GIVE UP!
 
+**Life Principles**
+- No usage of mobile phone during focus times unless it is an emergency. Focus times include work time, study time, or any other dedicated times. (Live in the Present)
+- Gym for at least 5 days every week, and calorie intake of 2500 - 3000 calories per day based on the heaviest meal calorie count of the day. (Take Care of Your Internal Temple)
+- Calm and center yourself by observing the reality as it is. In other words, do meditation
+
+
 Wish me luck friends!
 
 | Day | Status | Notes | Why fail? (don't) | Feedback | Date |

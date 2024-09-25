@@ -11,5 +11,6 @@ It feels almost weird to start this plan again, since it's been a year since I s
 Wish me luck friends!
 
 | Day | Status | Notes | Why fail? (don't) | Feedback | Date |
-| --- | ------ | ----- | --------- | -------- | ------- |
+| --- | ------ | ----- | --------- | -------- | -------|
+| 1 | Done | Focused on the work at hand. I did all of the things mentioned in my life principles; however, I also played video games (Valorant) till 2 am, which made me realize that I could have used my time more productively. | --------- | Try to limit your gaming time. Remember, it's just pixels moving in a screen. They don't actually have an impact on your life satisfaction goals. | 09/24/2025 |
 | 0 | Done | Started the day slow, but I think I got everything I wanted done | --------- | Remember to live in the present. And, Self Control is a finite resource so use it wisely | 09/23/2024 |
